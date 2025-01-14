@@ -1,0 +1,4 @@
+numpy==1.26.0
+keras==3.8.0
+tensorflow==2.18.0
+setuptools==75.8.0
